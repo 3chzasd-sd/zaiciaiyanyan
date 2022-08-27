@@ -1,0 +1,15 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx9b70f587fa393b62",
+# 公众号appSecret
+"app_secret": "bf34dd738c86b5283904d75995180f2f",
+# 模板消息id
+"template_id": "aggh3qK8qb2K7P_UgZgpT5U-yXgLjSmwTU7CpuLMgtg",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1"]
+"user": ["o_PVy6PgzhKVhyrklF6JXoMVledU","o_PVy6AOU9fkIbt2NitLHADgo2Fs","o_PVy6GhAVI4ekcEYmG7j5x3p6U0"],
+
+今天是：{{date.DATA}} 你在:"province": "北京",天气：{{weather.DATA}} 最低气温: {{min_temperature.DATA}} 最高气温: {{max_temperature.DATA}} 今天是我们恋爱的第580天❤❤❤ 你嗓子不舒服 今天也要乖乖的多喝水~(*^▽^*) 今天休息，要好好休息 还有，晚上可以打电话吗？ 宝贝，对不起
+# 在一起的日子，格式同上
+"love_date": "2021-01-25"
+}
